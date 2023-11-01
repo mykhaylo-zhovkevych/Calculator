@@ -62,14 +62,8 @@ The calculator flawlessly supports four fundamental arithmetic operations:
 
 ## Usage
 
-To harness the power of the Java Calculator, follow these straightforward steps:
-
-1. Instantiate the `calculatorJava` class by invoking its constructor. This simple action serves as the entry point for accessing the calculator's capabilities.
-
-2. Upon execution, the calculator's visually appealing graphical user interface emerges on the screen, providing users with a familiar and intuitive platform for calculations.
-
-3. Engage with the calculator by effortlessly clicking on the buttons to input numbers, select arithmetic operations, and view calculation results in the textfield. The calculator's responsiveness and immediate feedback simplify the process of performing a wide range of calculations.
+To harness the Java Calculator, download from the bin folder the exe file or jav if you have java installed.
 
 ## Conclusion
 
-The Java Calculator is a sophisticated and feature-rich application that leverages the capabilities of Java and the Swing library to create a polished graphical user interface. This documentation has ventured deep into the intricacies of the code, unveiling its well-structured architecture, the nuanced roles of its components.
+The Java Calculator is a simplified application that leverages the capabilities of Java and the Swing library to create a polished graphical user interface. This documentation has ventured deep into the intricacies of the code, unveiling its well-structured architecture, the nuanced roles of its components.
