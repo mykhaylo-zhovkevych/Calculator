@@ -3,6 +3,7 @@
 ## Introduction
 
 This graphical calculator application developed using Java and Swing. This documentation offers an in-depth analysis of the code, focusing on the more intricate aspects of its architecture, the purpose of its components, and the complex logic that drives its functionality.
+![CALC](https://github.com/mykhaylo-zhovkevych/Calculator/assets/148889468/9d85ac14-7cc1-4fa9-a976-3c5b9e24df2f)
 
 ## Code Structure
 
